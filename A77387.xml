@@ -1,0 +1,173 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A brief account of the commitment of the Earl of Sh. and the crimes laid to his charge</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1681</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A77387</idno>
+            <idno type="STC">Wing B4503B</idno>
+            <idno type="STC">ESTC R231126</idno>
+            <idno type="EEBO-CITATION">99896778</idno>
+            <idno type="PROQUEST">99896778</idno>
+            <idno type="VID">136885</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A77387)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 136885)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2440:3)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A brief account of the commitment of the Earl of Sh. and the crimes laid to his charge</title>
+               </titleStmt>
+               <extent>1 sheet (2 p.)   </extent>
+               <publicationStmt>
+                  <publisher>printed for H.R.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1681.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Reproduction of original in the Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Shaftesbury, Anthony Ashley Cooper, --  Earl of, 1621-1683 --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1660-1688 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:136885:1" rendition="simple:additions"/>
+            <head>A BRIEF ACCOUNT Of the Commitment of the Earl of Sh. And the Crimes laid to his Charge.</head>
+            <p>IT has been much admir'd at by the moſt ſober and conſidering part of the Nation, that thoſe who came in theſe three years paſt to diſcover a curſed Deſign againſt his Sacred Majeſties Life and Government, ſhould be moſt intimate with Perſons diſcontented, and notoriouſly diſſaſſected with his. Majeſties Government both in Church and State; Nay, ſhould be ſupported and mantain'd, if not Inſtructed and Catechiz'd by them in all their meaſures and Proceedings. And indeed 'tis very ſtrange, that no Informer yet appear'd to diſcover the <hi>Plot</hi> either in <hi>England</hi> or <hi>Ire<g ref="char:EOLhyphen"/>land,</hi> but firſt he made his Addreſs to the E. of <hi>S—</hi> before he apply'd himſelf to <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ing or Councel: For 'tis plain, neither his Lordſhips Loyalty, (which always ſeem'd Retrograde, but when he Govern'd all; nor his Religion, which in all the Revo<g ref="char:EOLhyphen"/>lutions of his time, he meaſur'd ſtill by his Intereſt,) could invite theſe Informers to Him, more than to other Peers of the Realm. But now People begin to find out the Myſtery, and are pretty well ſatisfyed, that his Lordſhip did not promote the Diſcovery of the <hi>Popiſh</hi> Plot out of any extraordinary Zeal he had for the good ei<g ref="char:EOLhyphen"/>ther of the King or Kingdom, but was reſolv'd to make a good hand of this Helliſh Conſpiracy, to advance another of his own: But our little VVeathercock of State made a Pit, and dig'd it, and is fallen into the Ditch which he made. Thoſe very Witneſſes, whom he ſo much extoll'd for the Saviours of both Kingdoms, and en<g ref="char:EOLhyphen"/>deavour'd to perſwade to Swear againſt her Sacred Majeſty, and his Royal Highneſs, have of late poſitively ſworn Treaſon, or rather a heap of Treaſons againſt himſelf; the ſum whereof is as follows.
+<list>
+                  <item>I. <hi>That he has imagined to compaſs and procure the Death of the</hi> King, <hi>and the Sub<g ref="char:EOLhyphen"/>verſion of the Government, and of the known Laws of the Land, by reducing this antient Monarchy into a Republick.</hi>
+                  </item>
+                  <item>II. <hi>That he uſed great endeavours to poſſeſs the People that His Majeſty is a</hi> Papiſt, <hi>and deſigns to introduce</hi> Popery <hi>and</hi> Arbitrary Power; <hi>and to that end has promoted ſeveral Seditious and Treaſonable</hi> Libels <hi>againſt His Majeſties Perſon and Government, purpoſely to bring His Majeſty into an</hi> odium <hi>and Contempt with his loving Subjects.</hi>
+                  </item>
+                  <item>III. <hi>That He endeavour'd to Levy War againſt the</hi> King <hi>both in</hi> England <hi>&amp;</hi> Ireland, <hi>and bring Blood-ſhed and Confuſion upon His Majesties good People, under pretence of proſecuting the</hi> Popiſh Plot, <hi>and preſerving the</hi> Proteſtant Religion, <hi>the</hi> Liberty <hi>and</hi> Property <hi>of the</hi> Subject, <hi>as He and his Confederates have done in the late Rebellion.</hi>
+                  </item>
+                  <item>IV. <hi>That He endeavour'd to render the</hi> Church of England <hi>as Ridiculous as</hi> Popery, <hi>and Defam'd all His Majesties Officers both by Land and Sea; and all others, who out of a due ſenſe of</hi> Loyalty <hi>adhere to the</hi> Crown, <hi>ſtiling them</hi> Tories, Tantivies, Maſque<g ref="char:EOLhyphen"/>raders, <hi>&amp;c. purpoſely to frighten them from their Duty, and wean them from their</hi> So<g ref="char:EOLhyphen"/>vereign, <hi>to adhere to Him and His</hi> Faction.</item>
+                  <item>V. <hi>That He countenanced, harbour'd, and hired Perſons to ſwear against the</hi> Queen, <hi>and His</hi> Royal Highneſs.</item>
+                  <item>VI. <hi>That He procur'd ſeveral ſums of Money to be Raiſed and Collected to carry on theſe moſt abominable Deſigns.</hi>
+                  </item>
+               </list>
+            </p>
+            <pb n="2" facs="tcp:136885:2"/>
+            <p> This Charge is made out againſt his Lordſhip by 15. Perſons of as good Credi<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and Reputation as any of thoſe his Lordſhip ſo much extolled and admired while they ſwore as he would have them; Four are <hi>Iriſh,</hi> the reſt <hi>Engliſh;</hi> and all known Proteſtants of the Church of <hi>England;</hi> And ſeveral of them were lately eſteem'd by his Lordſhip very fit Perſons to ſwear againſt the <hi>Queen</hi> and His <hi>Royal Highneſs</hi> Yet perhaps they muſt not be thought of ſufficient Credit now againſt ſuch a true Proteſtant, who was as Zealous to ſuppreſs Popery in 79. as he was to promote it in 72. and <hi>Polypus</hi>-like in all the Changes and Revolutions of the Government always appear'd of the ſame Religion with the Faction or Party he eſpouſed.</p>
+            <p>'Tis well known, that whoſoever ſwears for the Presbyterians, (though hired for that purpoſe,) muſt be cryed up for a Saint, and a Saviour of the Nation: But if ever he is touched with any Remorſe of Conſcience, and thereupon diſcove<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the Villanous Practices of that Party, He is immediately Metamorphos'd into the greateſt of Villains, and worſt of Perjurers. And 'tis very obſervable, that among the Brethren there is a Common Purſe made, and a Swearing Office erected, where all Perſons that have Conſcience large enough to ſwallow any Oaths, and ſwea<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> what their Benefactors pleaſe, are frankly entertained and liberally Rewarded.</p>
+            <p>But above all, 'tis worth the enquiring after, what Motives can induce the Godly Congregations to be ſo free of their Purſe to the <hi>Iriſh Evidence,</hi> who are known Papiſts, Prieſts and Fryars? For the Conſpiracy in <hi>Ireland</hi> (as they tell Us,) was <hi>To bring in the</hi> French, <hi>and cut the Throats of all the</hi> Proteſtants <hi>in that Kingdom</hi> VVhat Reaſon then have the <hi>Fanaticks</hi> of <hi>England</hi> to be ſo liberal to the Diſcove<g ref="char:EOLhyphen"/>rers of that PLOT, when the very Parties concern'd, (the <hi>Protestants</hi> of <hi>Ireland</hi> never gave them a Farthing? Is it poſſible the <hi>Engliſh Fanaticks,</hi> can be more con<g ref="char:EOLhyphen"/>cern'd for the ſafety of the <hi>Iriſh Proteſtants,</hi> than They Themſelves? Or that the <hi>Pooteſtants</hi> of that Kingdom could be ſo ſtupid, as not to conſider theſe Diſcovere<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> that ſav'd their Throats from a General Maſſacre, if they believ'd there was a<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> ſuch Deſign in Agitation? As for my part, let the world believe what they plea<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> I am certain, the Brethren do not part with their Money for nothing; and I a<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> affraid there lies a Snake in the Graſs, as I hope will ſhortly be found out.</p>
+            <p>In the <hi>interim</hi> our great Patriot is ſent to the <hi>Tower,</hi> and kept cloſe Priſoner <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the foreſaid Crimes; And 'tis ſaid, that laſt <hi>Saturday</hi> morning, when the Serjeant <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Arms went to Apprehend him, and deſired his Lordſhip to eat ſomething before <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> appeared before the King and Council, the Earl replied, He had no ſtomach to e<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> unleſs he could get a roaſted <hi>Iriſh</hi>-man; which others hearing, they anſwered, No<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> was fitter for his Lordſhips Table, than his own Creature and Precurſor Mr. <hi>Fit<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/> Harris;</hi> and had his Lordſhip come but the day before, he might have overtake him at <hi>Tyburn.</hi> But if his Lordſhips Appetite ſtill continues, he may perhaps e're lon<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> have his belly full of his dear Pupil Mr. <hi>Hetherington.</hi>
+            </p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>H. R.</hi> 1681.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
